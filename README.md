@@ -1,6 +1,6 @@
 # FeedTestCLI-App
 
-First version of **[CLI-util](https://github.com/kosyloa/FeedTestCLI-App/blob/main/builds/FeedTestCLI%202023-02-17%2010-44-56.zip)**
+First version of **[CLI-app](https://github.com/kosyloa/FeedTestCLI-App/blob/main/builds/FeedTestCLI%202023-02-17%2010-44-56.zip)**
 
 - supports address
 - supports only one symbol
