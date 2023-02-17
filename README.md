@@ -6,7 +6,7 @@ First version of **[CLI-app](https://github.com/kosyloa/FeedTestCLI-App/blob/mai
 - supports only one symbol
 - supports only quote, time and sale
  
-Usage: FeedTestCLI <host:port> <event> <symbol><br>
+Usage: FeedTestCLI host:port event symbol <br>
 where<br>
 &emsp;host:port  - The address of dxFeed server demo.dxfeed.com:7300<br>
 &emsp;event      - One of the {Quote,TimeSale}<br>
