@@ -6,8 +6,8 @@ First version of **[CLI-util](https://github.com/kosyloa/FeedTestCLI-App/blob/ma
 - supports only one symbol
 - supports only quote, time and sale
  
-Usage: FeedTestCLI <host:port> <event> <symbol>
-where
-    host:port  - The address of dxFeed server demo.dxfeed.com:7300
-    event      - One of the {Quote,TimeSale}
-    symbol     - IBM, MSFT, ETH/USD:GDAX,  ...
+Usage: FeedTestCLI <host:port> <event> <symbol><br>
+where<br>
+&emsp;host:port  - The address of dxFeed server demo.dxfeed.com:7300<br>
+&emsp;event      - One of the {Quote,TimeSale}<br>
+&emsp;symbol     - IBM, MSFT, ETH/USD:GDAX,  ...<br>
