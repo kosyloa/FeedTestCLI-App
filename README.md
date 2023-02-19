@@ -5,7 +5,7 @@
 
 ----
 
-1. [CLI-app](https://github.com/kosyloa/FeedTestCLI-App/blob/main/builds/FeedTestCLI%202023-02-17%2010-44-56.zip)**
+1. [CLI-app](https://github.com/kosyloa/FeedTestCLI-App/blob/main/builds/FeedTestCLI%202023-02-17%2010-44-56.zip)
 
 - supports address
 - supports only one symbol
@@ -17,9 +17,9 @@ where<br>
 &emsp;event      - One of the {Quote,TimeSale}<br>
 &emsp;symbol     - IBM, MSFT, ETH/USD:GDAX,  ...<br>
 
-2. [CLI-app](https://github.com/kosyloa/FeedTestCLI-App/blob/main/builds/FeedTestCLI%202023-02-19%2011-48-06.zip)**
+2. [CLI-app](https://github.com/kosyloa/FeedTestCLI-App/blob/main/builds/FeedTestCLI%202023-02-19%2011-48-06.zip)
 
-- event counter
+- events counter
 - remove NSDate for time fields
 - remove runtime initialization of events
  
