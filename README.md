@@ -19,7 +19,7 @@ where<br>
 
 2. [CLI-app](https://github.com/kosyloa/FeedTestCLI-App/blob/main/builds/FeedTestCLI%202023-02-19%2011-48-06.zip)
 
-- events counter
+- event counter
 - remove NSDate for time fields
 - remove runtime initialization of events
  
@@ -29,4 +29,13 @@ where<br>
 &emsp;event      - One of the {Quote,TimeSale}<br>
 &emsp;symbol     - IBM, MSFT, ETH/USD:GDAX,  ...<br>
 
+3. [CLI-app](https://github.com/kosyloa/FeedTestCLI-App/blob/main/builds/FeedTestCLI%202023-02-19%2015-05-06.zip)
+
+- listener counter, average number of events
+ 
+Usage: FeedTestCLI host:port event symbol <br>
+where<br>
+&emsp;host:port  - The address of dxFeed server demo.dxfeed.com:7300<br>
+&emsp;event      - One of the {Quote,TimeSale}<br>
+&emsp;symbol     - IBM, MSFT, ETH/USD:GDAX,  ...<br>
 
